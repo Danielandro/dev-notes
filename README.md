@@ -51,6 +51,8 @@ A collection of small and not so small nuggets of knowledge encountered during m
 
 - [React testing resources](react/react-testing-resources.md)
 
+* [Adding test coverage to React](react/adding-test-coverage.md)
+
 ---
 
 # Ruby
