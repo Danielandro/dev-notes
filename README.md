@@ -19,6 +19,7 @@ A collection of small and not so small nuggets of knowledge encountered during m
 - [Continuous Integration & Continuous Deployment](#Continuous-Integration-&-Continuous-Deployment)
 - [Computer science](#computer-science)
 - [Misc](#misc)
+- [Soft Skills](#soft-skills)
 - [Tech interviews](#tech-interviews)
 
 ---
@@ -70,6 +71,12 @@ A collection of small and not so small nuggets of knowledge encountered during m
 ---
 
 # Misc
+
+---
+
+# Soft Skills
+
+- [Emotional Intelligence (EQ)](soft-skills/emotional-intelligence.md)
 
 ---
 
