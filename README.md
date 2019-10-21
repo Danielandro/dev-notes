@@ -16,7 +16,7 @@ A collection of small and not so small nuggets of knowledge encountered during m
 - [Node.js](#node)
 - [React](#react)
 - [Ruby](#ruby)
-- [Continuous Integration & Continuous Deployment](#Continuous-Integration-&-Continuous-Deployment)
+- [Devops](#devops)
 - [Computer science](#computer-science)
 - [Misc](#misc)
 - [Soft Skills](#soft-skills)
@@ -62,7 +62,7 @@ A collection of small and not so small nuggets of knowledge encountered during m
 
 ---
 
-# Continuous Integration & Continuous Deployment
+# DevOps
 
 ---
 
