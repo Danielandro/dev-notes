@@ -50,6 +50,8 @@ A collection of small and not so small nuggets of knowledge encountered during m
 
 # React
 
+- [What is React?](react/what-is-react.md)
+
 - [React testing resources](react/react-testing-resources.md)
 
 * [Installing enzyme](react/installing-enzyme.md)
