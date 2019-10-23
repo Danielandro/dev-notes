@@ -33,4 +33,18 @@ const localStorageMock = {
 global.localStorage = localStorageMock;
 ```
 
+## Types of rendering
+
+### Render
+
+Generates HTML from the react tree. We can then analyze this HTML
+
+### Shallow
+
+Useful for unit testing components.
+
+### Mount
+
+This renders the full DOM. Useful for testing components that are wrapped in higher order components or interact with DOM APIs e.g. fetch
+
 [Main Page](../README.md)
