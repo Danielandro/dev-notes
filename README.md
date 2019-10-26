@@ -30,6 +30,8 @@ A collection of small and not so small nuggets of knowledge encountered during m
 
 # Git
 
+- [How to squash multiple git commits](git/how-to-squash-multiple-git-commits.md)
+
 ---
 
 # Command line
@@ -54,9 +56,9 @@ A collection of small and not so small nuggets of knowledge encountered during m
 
 - [React testing resources](react/react-testing-resources.md)
 
-* [Installing enzyme](react/installing-enzyme.md)
+- [Installing enzyme](react/installing-enzyme.md)
 
-* [Adding test coverage to React](react/adding-test-coverage.md)
+- [Adding test coverage to React](react/adding-test-coverage.md)
 
 ---
 
