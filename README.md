@@ -36,6 +36,8 @@ A collection of small and not so small nuggets of knowledge encountered during m
 
 # Command line
 
+- [Bash - Useful commands](command-line/bash-useful-commands.md)
+
 ---
 
 # APIs
