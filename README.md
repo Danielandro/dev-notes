@@ -78,6 +78,8 @@ A collection of small and not so small nuggets of knowledge encountered during m
 
 # Misc
 
+- [Magic Strings](misc/magic-strings.md)
+
 ---
 
 # Soft Skills
