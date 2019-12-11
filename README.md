@@ -39,6 +39,8 @@ A collection of small and not so small nuggets of knowledge encountered during m
 - [Bash - Useful commands](command-line/bash-useful-commands.md)
 - [Brace Expansion in Bash](command-line/brace-expansion.md)
 
+- [Suspend a process](command-line/suspend-a-process.md)
+
 ---
 
 # APIs
