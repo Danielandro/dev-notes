@@ -32,6 +32,8 @@ A collection of small and not so small nuggets of knowledge encountered during m
 
 - [How to squash multiple git commits](git/how-to-squash-multiple-git-commits.md)
 
+- [Untrack files already added to git repository based on .gitignore](git/untrack-files-in-gitignore.md)
+
 ---
 
 # Command line
